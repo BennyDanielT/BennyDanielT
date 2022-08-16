@@ -17,7 +17,8 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 
-https://github.com/rudrabarad/Gifs
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Projects relevant to Automation
