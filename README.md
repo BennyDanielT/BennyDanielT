@@ -17,7 +17,7 @@
 <h1 align="center">Greetings / Hola / Bonjour!</h1>
       
 <div align="center">
-<img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="600" height="300"/>
+<img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="400" height="200"/>
 </div>
 
 ## :man_technologist: About Me :
@@ -37,41 +37,26 @@ earnest passion.
 | Dalhousie University, Canada  | Master of Applied Computer Science | September 2021 – Present | Advanced topics in Software Development, Data Management, Warehousing and Analytics, Advanced Web Services, Serverless Data Processing, Process of Data Science and Advanced Topics in Computer Networks.
 | Sri Venkateswara College of Engineering, India |   B.Tech Information Technology  | August 2014 – May 2018     |   Programming and Data Structures, Web Programming, Design and Analysis of Algorithms and Database Management Systems  |
 
+### Work Experience
+
+| Organization        | Role           | Period  |
+| ------------- |:-------------:| -----:|
+| AstraZeneca Pvt Ltd, Chennai  | Junior Analyst -> Associate Engineer | May 2018 – August 2021 |
+| Glosys Technology Solutions, Chennai |   Research and Development Intern  | December 2017 - May 2018   |
+
+### What else ?
+
 - :superhero: Primary and Secondary education in Singapore, Undergraduate Degree in India and Postgraduate degree in Canada.
+- :computer: Primarily into automating dreary and mundane tasks. I’m also looking to collaborate on any proof-of-concepts relevant to Automation with Python.
+- :keyboard: Currently learning cloud technologies, Dockers, and React Native.
+- :computer_mouse: Current projects include a Mobile Application for a Brewery Agent in Halifax and a record management system for a Church in India.
 
-
-, India 
-Bachelor of Technology - Information Technology - CGPA - 7.87/10 Chennai, India
-Key Courses: 
-WORK EXPERIENCE
-Associate Engineer MM YYYY – MM YYYY
-AstraZeneca India Pvt Ltd, Chennai city, country
-• Performance Metrics Generation: Formulated more than 300 metrics relevant to pharmaceutical data through
-requirement elicitation with stakeholders and product owners.
-• About the role and responsibilities carried out.
-• About the role and responsibilities carried out.
-• About the role and responsibilities carried out.
-• About the role and responsibilities carried out.
-Intelligent Cubes Generation: Constructed in-memory datasets (Intelligent Cubes) in MicroStrategy for dynamic aggrega-
-tion and support for derived metrics which resulted in an improvement of 40
-Business Intelligence Development: Engineered dashboards with relevant Key Performance Indicators to assist stakeholders
-in making informed business decisions and deriving business insights from both historical and real-time data in the order
-of millions of records.
-Data Engineering: Implemented a new content pipeline consisting of multiple data layers using Spark to provision data
-relevant to pharmaceutical drugs in Amazon S3 buckets.
-Job Orchestration: Automated Data Extraction, Transformation and Load (ETL) jobs with Apache Airflow and eliminated
-manual data deployment tasks by more than 70
+## :white_check_mark: Skills :
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original-wordmark.svg" width="50" height="50"/>
                 
 
-### Hi there 👋
-
-- 🔭 I’m currently working on Projects relevant to Automation
-- 👯 I’m looking to collaborate on any proof-of-concepts relevant to Automation of Boring, tedious and dreary tasks
-- 😄 Pronouns: He / Him / His
-- ⚡ Favorite Quote: `Do or Die Trying...`
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=dark&background=000000)](https://git.io/streak-stats)
 
