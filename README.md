@@ -9,10 +9,15 @@
   <a href="https://medium.com/@TechKnightDanny">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+   <a href="benny28dany@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="www.techknight.ca">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red" alt="Website Badge"/>
   </a>
 </div>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 
 <h1 align="center">Greetings / Hola / Bonjour!</h1>
       
@@ -53,7 +58,17 @@ earnest passion.
 
 ## :white_check_mark: Skills :
 
-
+### Programming Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+          
+          
+### Databases: MySQL, Amazon RDS, DynamoDB, Redshift, MongoDB, Neo4j and Cloud Firestore
+### Cloud Technologies: Amazon Web Services, Google Cloud Platform and Dockers
+### Web Technologies: ReactJS, NodeJS, ExpressJS, HTML5 and Tailwind CSS
+### Version Control: GitHub, GitLab, Atlassian Bamboo and Bitbucket
+### Workflow Management: Jira and Confluence
+### Deployment Platforms: Heroku, GCP Cloud Run and AWS Elastic Beanstalk
+### Development Methodologies: SDLC, Agile, Test Driven Development and Design Patterns
+### Developer Tools: VS Code, Android Studio, Intellij Idea, PyCharm and Jupyter Notebooks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original-wordmark.svg" width="50" height="50"/>
                 
 
