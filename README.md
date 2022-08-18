@@ -69,12 +69,17 @@ earnest passion.
 ### Developer Tools: VS Code, Android Studio, Intellij Idea, PyCharm and Jupyter Notebooks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original-wordmark.svg" width="50" height="50"/>
                 
+## :slot_machine: GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Tech-Knight-Danny&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Knight-Danny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Knight-Danny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tech-Knight-Danny&theme=dracula&no-frame=false&no-bg=true&margin-w=10)
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Tech-Knight-Danny&style=flat-square&color=blue" alt=""/>
