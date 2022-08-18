@@ -71,15 +71,15 @@ earnest passion.
                 
 ## :slot_machine: GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tech-Knight-Danny&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Tech-Knight-Danny&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-
+<div id="header" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Knight-Danny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tech-Knight-Danny&theme=dracula&no-frame=false&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Tech-Knight-Danny&theme=matrix&no-frame=false&no-bg=true&margin-w=10)
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Tech-Knight-Danny&style=flat-square&color=blue" alt=""/>
