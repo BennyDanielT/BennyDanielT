@@ -59,24 +59,26 @@ earnest passion.
 ### Programming Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
           
           
-### Databases: MySQL, Amazon RDS, DynamoDB, Redshift, MongoDB, Neo4j and Cloud Firestore
-### Cloud Technologies: Amazon Web Services, Google Cloud Platform and Dockers
+### Databases:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
+          
+### Cloud Technologies:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+          
+          
 ### Web Technologies: ReactJS, NodeJS, ExpressJS, HTML5 and Tailwind CSS
-### Version Control: GitHub, GitLab, Atlassian Bamboo and Bitbucket
+### Version Control: GitHub, GitLab, Atlassian Bamboo and Bitbucket <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original-wordmark.svg" width="40" height="40"/>
 ### Workflow Management: Jira and Confluence
 ### Deployment Platforms: Heroku, GCP Cloud Run and AWS Elastic Beanstalk
 ### Development Methodologies: SDLC, Agile, Test Driven Development and Design Patterns
 ### Developer Tools: VS Code, Android Studio, Intellij Idea, PyCharm and Jupyter Notebooks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original-wordmark.svg" width="50" height="50"/>
                 
 ## :slot_machine: GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Tech-Knight-Danny&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
-<div id="header" align="center">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Knight-Danny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tech-Knight-Danny&theme=matrix&no-frame=false&no-bg=true&margin-w=10)
