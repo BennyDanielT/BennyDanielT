@@ -49,16 +49,15 @@ earnest passion.
 
 ### What else ?
 
-- :superhero: Primary and Secondary education in Singapore, Undergraduate Degree in India and Postgraduate degree in Canada.
 - :computer: Primarily into automating dreary and mundane tasks. I’m also looking to collaborate on any proof-of-concepts relevant to Automation with Python.
 - :keyboard: Currently learning cloud technologies, Dockers, and React Native.
-- :computer_mouse: Current projects include a Mobile Application for a Brewery Agent in Halifax and a record management system for a Church in India.
+- :superhero: Current projects include a Mobile Application for a Brewery Agent in Halifax and a record management system for a Church in India.
 
 ## :white_check_mark: Skills :
 
-### Programming Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+### Programming Languages: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src=" https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
           
-          
+         
 ### Databases:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
           
 ### Cloud Technologies:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
