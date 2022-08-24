@@ -90,7 +90,7 @@ earnest passion.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Knight-Danny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-Knight-Danny&theme=dracula" height="150"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Tech-Knight-Danny&theme=minimal" height="250"/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tech-Knight-Danny&theme=matrix&no-frame=false&no-bg=true&margin-w=10)
