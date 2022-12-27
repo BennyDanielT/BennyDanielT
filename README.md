@@ -85,16 +85,16 @@ earnest passion.
 
 ## :slot_machine: GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tech-Knight-Danny&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=BennyDanielT&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BennyDanielT&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Knight-Danny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-Knight-Danny&theme=dracula" height="150"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyDanielT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BennyDanielT&theme=dracula" height="150"/>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tech-Knight-Danny&theme=matrix&no-frame=false&no-bg=true&margin-w=10)
 
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=Tech-Knight-Danny&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=BennyDanielT&style=flat-square&color=blue" alt=""/>
 </div>    
