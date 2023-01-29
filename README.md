@@ -45,6 +45,7 @@ earnest passion.
 
 | Organization        | Role           | Period  |
 | ------------- |:-------------:| -----:|
+| Climative, Halifax  | Software Developer Intern | January 2023 - April 2023 |
 | AstraZeneca Pvt Ltd, Chennai  | Junior Analyst -> Associate Engineer | May 2018 – August 2021 |
 | Glosys Technology Solutions, Chennai |   Research and Development Intern  | December 2017 - May 2018   |
 
