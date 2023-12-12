@@ -55,7 +55,7 @@ earnest passion.
 - :keyboard: Currently learning cloud technologies, Dockers, and React Native.
 - :superhero: Current projects include a Mobile Application for a Brewery Agent in Halifax and a record management system for a Church in India.
 
-## :white_check_mark: Skills :
+## ✔ Skills :
 
 ### Programming Languages: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src=" https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
           
