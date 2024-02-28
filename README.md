@@ -47,9 +47,9 @@ and technology with larger business objectives. Proficient in Infrastructure Aut
 
 ### What else ?
 
-- :computer: Primarily into automating dreary and mundane tasks. I’m also looking to collaborate on any proof-of-concepts relevant to Automation with Python.
-- :keyboard: Currently learning cloud technologies, Dockers, and React Native.
-- :superhero: Current projects include a Mobile Application for a Brewery Agent in Halifax and a record management system for a Church in India.
+- :computer: Primarily into automating dreary and mundane tasks. I’m also looking to collaborate on proof-of-concepts relevant to Automation / Generative AI and Cloud Architecture.
+- :keyboard: Currently learning Deep Learning, Large Language Models, and Kubernetes.
+- :superhero: Current projects include a blog for technical and non-technical posts and Large Language Models as a Service.
 
 ## ✔ Skills :
 
