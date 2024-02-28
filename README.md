@@ -26,11 +26,8 @@
 
 <img src="https://www.worldometers.info/img/flags/sn-flag.gif" width="75" height="50"/> <img src="https://www.worldometers.info/img/flags/in-flag.gif" width="75" height="50"/> <img src="https://www.worldometers.info/img/flags/ca-flag.gif" width="75" height="50"/> 
 
-> Savvy professional with three years of experience in fast-paced environments. Proven success integrating processes
-and technology with larger business objectives. Full professional proficiency in Software Development, Business
-Intelligence Development, Data Ingestion, Automation, and Data Engineering. Avid consumer of all new engineering
-methodologies and techniques and exceeds job descriptions by enhancing development and production efforts through
-earnest passion.
+> Savvy professional with five years of experience in fast-paced environments. Proven success integrating processes
+and technology with larger business objectives. Proficient in Infrastructure Automation, Cloud Computing, Deep Learning, and Software Development.
 
 ### EDUCATION
 
@@ -43,6 +40,7 @@ earnest passion.
 
 | Organization        | Role           | Period  |
 | ------------- |:-------------:| -----:|
+| Rimot, Halifax  | Devops Developer | September 2023 - February 2024 |
 | Climative, Halifax  | Software Developer Intern | January 2023 - April 2023 |
 | AstraZeneca Pvt Ltd, Chennai  | Junior Analyst -> Associate Engineer | May 2018 – August 2021 |
 | Glosys Technology Solutions, Chennai |   Research and Development Intern  | December 2017 - May 2018   |
