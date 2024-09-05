@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-          <img src="ezgif.com-gif-maker.gif" height="250"/>
+          <img src="ezgif-benny.gif" height="250"/>
 </div>
 <br/>
 <div id="badges" align="center">
