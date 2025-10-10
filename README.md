@@ -43,6 +43,7 @@ and technology with larger business objectives. Proficient in Infrastructure Aut
 
 | Organization        | Role           | Period  |
 | ------------- |:-------------:| -----:|
+| Trihedral Engineering Ltd., Halifax  | Software Developer | January 2025 - Present |
 | Rimot, Halifax  | Devops Developer | September 2023 - February 2024 |
 | Climative, Halifax  | Software Developer Intern | January 2023 - April 2023 |
 | AstraZeneca Pvt Ltd, Chennai  | Junior Analyst -> Associate Engineer | May 2018 – August 2021 |
